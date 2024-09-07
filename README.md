@@ -1,16 +1,11 @@
 # apksignature
 
-A new Flutter project.
+Apk签名工具 批量渠道包制作工具
+gmail:angelporthome@gmail.com
+blog:https://johns.blog.csdn.net/
 
-## Getting Started
+## 如何使用
+4k对其默认支持
+目前测试过 window平台 mac 还没使用过，后期可以测试
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
